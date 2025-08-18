@@ -13,5 +13,17 @@ Site Logo (Last)
 Website name (Last)
 
 Internship--> Academic and Industrial-->Domestic and International-->Govt. and Private-->Funded and Non-Funded
-
 College Info--> Rank-->Placement
+
+Reminder Notification, like a bell option 
+
+Exams
+  |--JEE
+  |--NEET
+  |--CLAT
+  |--GATE
+  |--PSUs
+  |--Govt. Exams
+  |--CUET
+  |--
+...so on, can be classify in terms of class wise or stream wise
